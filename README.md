@@ -9,20 +9,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=snow-arc&icon=2&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-> *Building tomorrow's tech, one line of code at a time*
-
-
-## Skills 🛠️
-```
-◼️◼️◻️◻️◻️ Problem Solving
-◼️◼️◻️◻️◻️ Infrastructure
-◼️◻️◻️◻️◻️ General Development
-```
-
-## Focus 🎯
-Building practical solutions through strong analytical thinking and infrastructure knowledge. Always learning, always improving.
 
 
 
