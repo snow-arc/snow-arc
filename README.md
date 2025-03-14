@@ -4,19 +4,18 @@
 
 #AmbitiousDeveloper
 
-## About Me 🚀
+## Skills 🛠️
+```
+◼️◼️◻️◻️◻️ Problem Solving
+◼️◼️◻️◻️◻️ Infrastructure
+◼️◻️◻️◻️◻️ General Development
+```
 
-A passionate programmer on a journey to build impactful software. Constantly learning, experimenting, and pushing boundaries to create elegant solutions to complex problems.
+## Focus 🎯
+Building practical solutions through strong analytical thinking and infrastructure knowledge. Always learning, always improving.
 
-## My Philosophy 💭
-
-- **Learn by building** - Theory is important, but hands-on experience is invaluable
-- **Embrace challenges** - The most difficult problems offer the greatest growth
-- **Share knowledge** - Contributing to the community makes us all stronger
-
-## Current Focus 🎯
-
-Working on real-world projects that solve practical problems while expanding my technical expertise. I believe in creating software that's not just functional but also intuitive and enjoyable to use.
+## Open to Collaboration ⚡
+Let's build something meaningful together.
 
 ## Skills & Interests
 
@@ -31,7 +30,6 @@ I'm always open to connecting with fellow developers, sharing ideas, and collabo
 
 ---
 
-*"Code is like humor. When you have to explain it, it's bad." – Cory House*
 ## 🔗 Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/snow-arc)
